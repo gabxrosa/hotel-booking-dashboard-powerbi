@@ -70,13 +70,13 @@ Entender melhor o comportamento dos  clientes e os fatores que influenciam as re
 ## 📷 Prévia do Dashboard  
 
 ### Página 1 – Visão Geral do Negócio  
-![Página 1](imagens/Projeto_hotel_pages-to-jpg-0001.jpg)  
+![Página 1](imagens/hotel-booking-dashboard-1.png)  
 
 ### Página 2 – Análise de Clientes  
-![Página 2](imagens/Projeto_hotel_pages-to-jpg-0002.jpg)  
+![Página 2](imagens/hotel-booking-dashboard-2.png)  
 
 ### Página 3 – Análise de Comportamento  
-![Página 3](imagens/Projeto_hotel_pages-to-jpg-0003.jpg)  
+![Página 3](imagens/hotel-booking-dashboard-3.png)  
 
 ---
 
