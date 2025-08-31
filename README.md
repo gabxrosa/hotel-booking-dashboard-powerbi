@@ -90,22 +90,6 @@ Os dados foram previamente tratados em Python. O processo detalhado pode ser vis
 
 ---
 
-## 🚀 Como Usar  
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/gabxrosa/hotel-booking-dashboard.git
-   ```  
-
-2. Abra o arquivo `.pbix` no Power BI Desktop:  
-   ```
-   hotel-booking-dashboard.pbix
-   ```  
-
-3. Explore as páginas e visuais para obter insights.  
-
----
-
 ## 📌 Tecnologias Utilizadas  
 
 - **Power BI** (ETL com Power Query + Modelagem e Métricas com DAX)  
